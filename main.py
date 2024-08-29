@@ -15,7 +15,7 @@ mixer.init()
 
 
 screen = pygame.display.set_mode((constants.SCREEN_WIDTH, constants.SCREEN_HEIGHT))
-pygame.display.set_caption("Dungeon Crawler - Made by Tomer Biton")  # Game Name
+pygame.display.set_caption("Monster Hunt - Made by Tomer Biton")  # Game Name
 
 
 # create clock for maintaining frame rate
