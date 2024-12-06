@@ -15,6 +15,6 @@ In this game, you control a character who runs with a bow and arrow, battling mo
 3. Run `main.py` to start the game.
 
 ## Screenshots
-![Project Screenshot](assets\images\screenshots\screenshot_1.png)
-![Project Screenshot](assets\images\screenshots\screenshot_2.png)
-![Project Screenshot](assets\images\screenshots\screenshot_3.png)
+![Project Screenshot](assets/images/screenshots/screenshot_1.png)
+![Project Screenshot](assets/images/screenshots/screenshot_2.png)
+![Project Screenshot](assets/images/screenshots/screenshot_3.png)
