@@ -1,4 +1,4 @@
-# 🏹 Dungeon Crawler – Pygame Adventure
+# 🏹 Dungeon Crawler - Pygame Adventure
 
 Welcome to **Dungeon Crawler**, a fast-paced 2D survival game built with **Python** and **Pygame**!
 You play as a brave archer battling waves of monsters - the longer you survive, the higher your score!
