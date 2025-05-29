@@ -43,9 +43,13 @@ The goal is simple: **shoot, collect coins, and survive** as long as you can!
    cd Python-Game
 ```
 2. 📦 Install dependencies:
-```pip install pygame```
-3. ▶️ Run the game:
-```python main.py```
+```bash
+pip install pygame
+```
+4. ▶️ Run the game:
+```bash
+python main.py
+```
 
 ---
 
