@@ -46,7 +46,7 @@ The goal is simple: **shoot, collect coins, and survive** as long as you can!
 ```bash
 pip install pygame
 ```
-4. ▶️ Run the game:
+3. ▶️ Run the game:
 ```bash
 python main.py
 ```
